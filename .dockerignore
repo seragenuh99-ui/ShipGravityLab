@@ -1,0 +1,14 @@
+.git
+data/
+venv/
+*.mp4
+*.zip
+*.tar.gz
+*.pth
+*.bin
+third_party/
+build_linux/
+build/
+bin/
+.git/
+*.user

@@ -1,0 +1,10 @@
+# 覆盖当前的 .gitignore，确保规则生效
+cat <<EOF > .gitignore
+build/
+.vscode/
+*.o
+*.out
+CMakeSettings.json
+third_party/
+testconfigs/
+EOF
